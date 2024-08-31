@@ -1,0 +1,16 @@
+.footer {
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    transition: background-color 0.5s ease, color 0.5s ease;
+  }
+  
+  .footer.light {
+    background-color: #f9f9f9;
+    color: #213547;
+  }
+  
+  .footer.dark {
+    background-color: #1a1a1a;
+    color: #ffffff;
+  } 
